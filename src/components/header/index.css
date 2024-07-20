@@ -1,0 +1,7 @@
+.icon-search{
+  filter: invert(0) brightness(2);
+}
+
+.dark .icon-search{
+  filter: invert(1) brightness(2);
+}
